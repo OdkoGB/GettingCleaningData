@@ -1,6 +1,4 @@
----
-title: "CodeBook"
----
+# CodeBook
 
 This is **a code book** that describes the data, variables, and any transformations or work that I performed to clean up the data.
 
